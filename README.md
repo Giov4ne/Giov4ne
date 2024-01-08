@@ -17,6 +17,7 @@
     <img align="center" alt="java" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="php" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
     <img align="center" alt="mysql" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="c" height="33" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg">
 </div>
 
 ##
