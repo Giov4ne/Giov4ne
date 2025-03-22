@@ -1,4 +1,4 @@
-## Olá! Eu sou o Giovane, um jovem apaixonado por tecnologia 👨‍💻
+## Olá! Me chamo Giovane, bem-vindo(a) ao meu perfil 👨‍💻
 
 <br>
 
