@@ -1,7 +1,5 @@
 ## Olá! Me chamo Giovane, bem-vindo(a) ao meu perfil 👨‍💻
 
-##
-
 <div style="display: inline_block">
   <img align="center" alt="html5" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="css3" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
