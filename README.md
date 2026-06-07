@@ -1,6 +1,6 @@
 ## Olá! Me chamo Giovane, bem-vindo(a) ao meu perfil 👨‍💻
 
-<br>
+##
 
 <div style="display: inline_block">
   <img align="center" alt="html5" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
@@ -15,10 +15,6 @@
 ##
 
 <div>
-  <a href="https://www.instagram.com/__giovane__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
   <a href="https://www.linkedin.com/in/giovane-william-budal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
