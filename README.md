@@ -2,15 +2,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/Giov4ne">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giov4ne&show_icons=true&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giov4ne&layout=compact&theme=radical" />
-  </a>
-</div>
-
-<br>
-
 <div style="display: inline_block">
   <img align="center" alt="html5" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="css3" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
